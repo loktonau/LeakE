@@ -1,0 +1,271 @@
+body {
+  height: 100vh;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 127px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 0.875rem;
+  margin: 13px auto 0 10px;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 700;
+  margin: 0 auto 13px 10px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 21px;
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 284px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 20px auto 0 389px;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  margin: -28px 402px 0 auto;
+}
+
+.u-section-2 .u-group-1 {
+  width: 203px;
+  height: 203px;
+  margin: 13px auto 0 327px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 58px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 30px auto 0;
+}
+
+.u-section-2 .u-group-2 {
+  width: 203px;
+  height: 203px;
+  margin: -203px 321px 20px auto;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-5 {
+  margin: 58px auto 0;
+}
+
+.u-section-2 .u-text-6 {
+  margin: 30px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-left: 308px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-right: 318px;
+  }
+
+  .u-section-2 .u-group-1 {
+    margin-left: 246px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 48px;
+  }
+
+  .u-section-2 .u-group-2 {
+    margin-right: 237px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -19px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 234px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 252px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 144px;
+    height: 144px;
+    margin-left: 201px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -188px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 144px;
+    height: 144px;
+    margin-right: 201px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 145px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 171px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 141px;
+    height: 141px;
+    margin-left: 109px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 45px;
+  }
+
+  .u-section-2 .u-text-4 {
+    margin-top: -145px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 141px;
+    height: 141px;
+    margin-right: 119px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: 55px;
+  }
+
+  .u-section-2 .u-text-6 {
+    margin-top: -13px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 204px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: 0;
+    margin-right: 217px;
+    margin-left: 53px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -25px;
+    margin-right: 69px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 140px;
+    height: 140px;
+    margin-top: 7px;
+    margin-left: 18px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 44px;
+  }
+
+  .u-section-2 .u-text-4 {
+    width: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 140px;
+    height: 140px;
+    margin-top: -140px;
+    margin-right: 18px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -13px;
+  }
+}input[type=checkbox]{
+  height: 0;
+  width: 0;
+  visibility: hidden;
+}
+label {
+  cursor: pointer;
+  text-indent: -9999px;
+  width: 100px;
+  height: 50px;
+  background: grey;
+  display: block;
+  border-radius: 100px;
+  position: relative;
+}
+label:after {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 40px;
+  height: 40px;
+  background: #fff;
+  border-radius: 40px;
+  transition: 0s;
+}
+input:checked + label {
+  background: #4caef5;
+}
+input:checked + label:after {
+  left: calc(100% - 5px);
+  transform: translateX(-100%);
+}
+label:active:after {
+  width: 90px;
+}
+// centering
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
